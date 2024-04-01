@@ -26,6 +26,6 @@
 4.	Wire the Bluetooth Module:
 * 	ජම්පර් වයර් (VCC, GND, TX, RX) භාවිතයෙන් HC-06 බ්ලූටූත් මොඩියුලය Arduino වෙත සම්බන්ධ කරන්න.
 * 	Bluetooth මොඩියුලයේ TX Arduino හි RX වෙත සම්බන්ධ කර ඇති බවත්, Bluetooth මොඩියුලයේ RX Arduino හි TX වෙත සම්බන්ධ කර ඇති බවත් සහතික කර ගන්න.
-5.	Upload Arduino Code: (https://devino.lk/carcode)
+5.	Upload Arduino Code:
 * 	Bluetooth දුරස්ථ පාලක මෝටර් රථය සඳහා සපයා ඇති Arduino කේතය Arduino පුවරුවට උඩුගත කරන්න. කේතය කිසිදු දෝෂයකින් තොරව සාර්ථකව උඩුගත කර ඇති බවට වග බලා ගන්න.
 
